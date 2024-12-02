@@ -1,0 +1,28 @@
+{
+  "transactions": [
+    {
+      "id": "3",
+      "amount": 5001,
+      "desc": "clothes",
+      "type": "EXPENSE"
+    },
+    {
+      "id": "4",
+      "amount": 5998,
+      "desc": "clothes",
+      "type": "EXPENSE"
+    },
+    {
+      "id": "c49f",
+      "amount": 700,
+      "desc": "Grocery",
+      "type": "EXPENSE"
+    },
+    {
+      "id": "4830",
+      "amount": 701,
+      "desc": "books",
+      "type": "EXPENSE"
+    }
+  ]
+}
